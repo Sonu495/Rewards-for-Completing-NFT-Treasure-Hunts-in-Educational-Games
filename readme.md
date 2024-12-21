@@ -8,6 +8,8 @@ This project leverages blockchain technology to integrate NFT rewards into educa
 
 ## Contract Address
 0xe808ef4acc1d39844ef0275bb0a0bb2afce44191
+![image](https://github.com/user-attachments/assets/77f876de-6c20-4270-b235-a162b7f0fd40)
+
 
 ## Project Vision
 The vision is to revolutionize education by combining gamification with blockchain. By introducing NFT-based rewards, the project aims to make learning more immersive, rewarding, and fun. The initiative seeks to encourage participation in educational activities by offering transparent, secure, and exciting incentives.
